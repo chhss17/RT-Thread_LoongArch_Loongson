@@ -13,9 +13,11 @@ rt-thread 是一个开源的物联网操作系统，专为嵌入式设备设计�
 
 * 徐斌  tsuibin@loongson.cn
 
-## 难度：低-中
+## 难度
+低-中
 
-# License：Apache-2.0
+# License
+Apache-2.0
 
 ## 预期目标
 
